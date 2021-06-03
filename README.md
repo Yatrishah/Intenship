@@ -1,2 +1,2 @@
 # Intenship
-INtenship at Akash Technolab in android
+Intenship at Akash Technolab in android
